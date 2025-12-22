@@ -351,6 +351,46 @@ p{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.image5{
+    background: url(/assets/image/nuts\ oil.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image6{
+    background: url(/assets/image/lichi\ juce.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image7{
+    background: url(/assets/image/banana\ snack\ pack.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image8{
+    background: url(/assets/image/patato\ chips.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image9{
+    background: url(/assets/image/one\ pack.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image10{
+    background: url(/assets/image/small\ cardamom.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image11{
+    background: url(/assets/image/produt\ chili.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image12{
+    background: url(/assets/image/spico.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .deals-col:hover .deals-image .image{
     transform: scale(1.3);
 }
